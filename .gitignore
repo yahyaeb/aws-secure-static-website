@@ -1,0 +1,12 @@
+# Mac system files
+.DS_Store
+
+# AWS credentials (just in case)
+*.pem
+*.key
+.aws/
+
+# C compiled files
+*.o
+*.a
+*.out
