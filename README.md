@@ -1,3 +1,9 @@
+## 🌐 Check It Out
+
+You can visit the live website here: [www.yahia-elboukili.com](https://www.yahia-elboukili.com)
+
+----
+
 ## 🛠️ How I Built It
 
 ### Part 1: Host Static Site on S3
@@ -27,11 +33,6 @@
 - Attached SSL certificate from ACM
 - Created an A-record in Route 53 pointing `www.yahia-elboukili.com` to the CloudFront distribution
 
----
-
-## 🌐 Check It Out
-
-You can visit the live website here: [www.yahia-elboukili.com](https://www.yahia-elboukili.com)
 
 ---
 
